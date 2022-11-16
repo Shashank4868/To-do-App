@@ -1,0 +1,122 @@
+.hamburger-menu {
+    display: block;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+    /* overflow-x: scroll; */
+}
+
+.middleDivNotes {
+    width: 50vw;
+}
+
+.headText {
+    display: none;
+}
+
+
+/* .navBar {
+    margin-left: 0;
+    display: none;
+    float: left;
+    position: relative;
+    height: 10vh;
+    width: 100vw;
+} */
+
+
+/* .navBar li {
+    display: none;
+} */
+
+.navBar {
+    display: none;
+}
+
+.main {
+    margin-left: 0;
+    width: 100vw;
+    margin-top: 8vh;
+}
+
+.addedElementsSectionUl {
+    /* display: none; */
+    margin-top: 15vh;
+    height: 60vh;
+    margin-left: 5.5vw;
+}
+
+.form-todo {
+    height: 4vh;
+}
+
+.section-todo {
+    margin-top: 77vh;
+}
+
+.btn {
+    margin-top: 0;
+    height: 5vh;
+    width: 5vw;
+}
+
+.newDiv {
+    margin-left: 5%;
+    width: 90%;
+}
+
+.middleDiv {
+    width: 50vw;
+    max-height: 40%;
+    height: 40%;
+    margin-left: 18vw;
+    margin-top: 15vh;
+    background-color: rgba(0, 0, 0, 0.41);
+    backdrop-filter: blur(5px);
+    border-radius: 15px;
+}
+
+.middleDivImg {
+    margin-left: 14vw;
+    width: 25vw;
+}
+
+.middleSunImg {
+    margin-left: 16vw;
+    width: 8vw;
+    height: 8vh;
+}
+
+.middleNightImg {
+    margin-left: 9vw;
+    width: 8vw;
+    height: 8vh;
+}
+
+.middleDivTxt {
+    width: 90%;
+    margin-left: 2vw;
+    text-align: center;
+}
+
+.newLiImg {
+    margin-left: 68vw;
+    width: 4vw;
+}
+
+.completeImg {
+    margin-left: 62vw;
+    width: 4vw;
+}
+
+.hamburger-menu {
+    display: block;
+}
